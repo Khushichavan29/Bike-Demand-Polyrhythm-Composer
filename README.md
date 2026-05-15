@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Dataset](https://img.shields.io/badge/UCI-Bike%20Sharing%20Dataset-1D9E75?style=flat-square)](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 ---
 
@@ -174,8 +173,3 @@ hour.csv
 - Export to **Ableton Live / DAW** compatible formats
 - Web-based playback with interactive beat-grid editor
 
----
-
-## License
-
-MIT © 2024 — see [LICENSE](LICENSE) for details.
