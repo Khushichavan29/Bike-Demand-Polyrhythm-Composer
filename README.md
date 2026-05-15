@@ -9,16 +9,21 @@ Features:
 5. Zero-dependency MIDI export — writes a playable .mid file without any external MIDI library.
 6. Stereo WAV preview — synthesizes a full stereo audio preview alongside a rhythm timeline chart at outputs/.
 
-Processing pipeline:
-
 Ptoject Stucture:
 Bike Demand Polyrhythm Composer/
+
 |-- composer/
+
 |   |-- data_pipeline.py
+
 |   |-- exporters.py
+
 |   |-- rhythm_engine.py
+
 |   `-- visualization.py
+
 |-- data/
+
 |   |-- hour.csv
 |   `-- sample_bike_demand.csv
 |-- outputs/
